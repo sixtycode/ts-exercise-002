@@ -57,7 +57,7 @@ if (_inputfibo == 0) {
     _y = 0;
     _z = 0;    
 } else if (_inputfibo == 1 || _inputfibo == 2) {
-    _z = 0
+    _z = 0;
 } 
 
 console.log(`${_inputfibo} -> ${ _x+ _y+ _z}`);
